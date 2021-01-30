@@ -1,0 +1,14 @@
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\bin\Debug\MegaDesk_DiegoFreire2.exe.config
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\bin\Debug\MegaDesk_DiegoFreire2.exe
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\bin\Debug\MegaDesk_DiegoFreire2.pdb
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\obj\Debug\MegaDesk_DiegoFreire2.Properties.Resources.resources
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\obj\Debug\MegaDesk_DiegoFreire2.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\obj\Debug\MegaDesk_DiegoFreire2.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\obj\Debug\MegaDesk_DiegoFreire2.exe
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\obj\Debug\MegaDesk_DiegoFreire2.pdb
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\obj\Debug\MegaDesk_DiegoFreire2.MainMenu.resources
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\obj\Debug\MegaDesk_DiegoFreire2.AddMyQuotes.resources
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\obj\Debug\MegaDesk_DiegoFreire2.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\obj\Debug\MegaDesk_DiegoFreire2.DisplayQuote.resources
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\obj\Debug\MegaDesk_DiegoFreire2.SearchQuotes.resources
+C:\Users\Diego\source\repos\MegaDesk_DiegoFreire2\obj\Debug\MegaDesk_DiegoFreire2.ViewAllQuotes.resources
